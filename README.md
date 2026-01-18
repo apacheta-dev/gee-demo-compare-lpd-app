@@ -13,6 +13,7 @@ A deployed example of the application is available here:
 👉 https://apacheta.projects.earthengine.app/view/compare-lpd-hti
 
 The demo illustrates land degradation analysis based on **Land Productivity Dynamics (LPD)** for the computation of **SDG indicator 15.3.1**.
+<img width="1825" height="952" alt="image" src="https://github.com/user-attachments/assets/58d31784-c67b-425e-9c97-949bdc83f755" />
 
 ---
 
