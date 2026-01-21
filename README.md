@@ -1,3 +1,5 @@
+<img width="1463" height="180" alt="logo-apacheta-pislm-ci-wocat-gef" src="https://github.com/user-attachments/assets/e8708751-e10f-4696-a4ea-a3181f0b98ec" />
+
 # Land Productivity Dynamics Maps Comparison Tool – DEMO for Haiti
 
 This repository contains the source code for a **Google Earth Engine (GEE) App** designed to **analyze land degradation due to changes in land productivity**, supporting the computation of **SDG indicator 15.3.1** (Proportion of land that is degraded over total land area).
