@@ -1,4 +1,4 @@
-<img width="1463" height="180" alt="logo-apacheta-pislm-ci-wocat-gef" src="https://github.com/user-attachments/assets/e8708751-e10f-4696-a4ea-a3181f0b98ec" />
+<img width="1106" height="127" alt="logo-v2" src="https://github.com/user-attachments/assets/665d9a8a-720e-4f2e-85e5-a7c6c07766fd" />
 
 # Land Productivity Dynamics Maps Comparison Tool – DEMO for Haiti
 
